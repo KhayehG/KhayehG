@@ -142,7 +142,7 @@ Modern language-learning app with a clear split between client and API.
 
 ---
 
-**Repo:** [Somatology Clinic](https://github.com/KhayehG/SomatologyClinic)
+**Repo:** [Somatology Clinic](https://github.com/KhayehG/SomatologyClinic) </br>
 **Repo:** [AUTO Edge](https://github.com/KhayehG/AutoEdge_Project)
 
 ---
