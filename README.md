@@ -138,11 +138,12 @@ Modern language-learning app with a clear split between client and API.
 
 *(Update the link below to your public repo URL.)*
 
-**Repo:** [LingoLearn](https://github.com/KhayehG/LingoLearn)
+**Repo:** [Tech Repair Soluitons](https://github.com/KhayehG/Tech-Repair-Solutions)
 
 ---
 
-_Add 1–2 more projects here when you have public links (live demo + GitHub). Recruiters skim this section first._
+**Repo:** [Somatology Clinic](https://github.com/KhayehG/SomatologyClinic)
+**Repo:** [AUTO Edge](https://github.com/KhayehG/AutoEdge_Project)
 
 ---
 
